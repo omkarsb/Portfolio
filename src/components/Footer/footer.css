@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #ed8a63, #c9af98);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: auto;
+}
+
+.MainLabel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.SocialMedia{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.SocialMediaBlock{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.SocialMediaBlock a {color:#3b5998;}

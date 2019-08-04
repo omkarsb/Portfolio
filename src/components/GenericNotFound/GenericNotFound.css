@@ -1,0 +1,12 @@
+.GenericNotFound__Maindiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+    transition: opacity 2s;
+}
+
+.GenericNotFound__Maindiv:hover{
+    opacity: 1;
+}
